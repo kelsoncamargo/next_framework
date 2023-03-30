@@ -1,0 +1,22 @@
+#integration{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.red{
+    color: #f30;
+}
+
+
+.blue{
+    color: #03f
+}
+
+
+.white{
+    background-color: #444;
+    color: #fff;
+}
